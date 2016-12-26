@@ -1,0 +1,9 @@
+baseurl: 'http://blog.cbear.cc'
+title: 'blog.cbear.cc'
+name: '酷熊棒球[CBEAR.CC]'
+email: 'axl.zhao@163.com'
+slogan: '钓鱼岛是中国的，酷熊棒球，推动棒球发展。'
+permalink: pretty
+markdown: redcarpet
+redcarpet:
+  extensions: [smart]
